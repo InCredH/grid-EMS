@@ -1,0 +1,3 @@
+Validation done in Application Layer
+
+API Error responses are sent via the handler and not directly from the controller. A result object is being sent.
